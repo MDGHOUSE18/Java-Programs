@@ -1,0 +1,56 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Patterns",
+      "request": "launch",
+      "mainClass": "Patterns",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Armstrong",
+      "request": "launch",
+      "mainClass": "Armstrong",
+      "projectName": "Java Programs_1b08b5be"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "Java Programs_1b08b5be"
+    },
+    {
+      "type": "java",
+      "name": "NumericalQuestions",
+      "request": "launch",
+      "mainClass": "NumericalQuestions",
+      "projectName": "Java Programs_1b08b5be"
+    },
+    {
+      "type": "java",
+      "name": "OptimizedArmstrongNumberChecker",
+      "request": "launch",
+      "mainClass": "OptimizedArmstrongNumberChecker",
+      "projectName": "Java Programs_1b08b5be"
+    },
+    {
+      "type": "java",
+      "name": "Patterns",
+      "request": "launch",
+      "mainClass": "Patterns",
+      "projectName": "Java Programs_1b08b5be"
+    }
+  ]
+}
