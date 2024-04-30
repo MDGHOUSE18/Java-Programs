@@ -1,3 +1,5 @@
+package NumericalQuestions;
+
 import java.util.Scanner;
 
 /**
@@ -70,4 +72,5 @@ class OptimizedArmstrongNumberChecker {
         return sum == n;
     }
 }
+
 
