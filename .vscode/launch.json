@@ -6,6 +6,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Polindrome",
+      "request": "launch",
+      "mainClass": "Functions.Polindrome",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "MaxAndMin",
+      "request": "launch",
+      "mainClass": "Functions.MaxAndMin",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "LeetCode_1281",
+      "request": "launch",
+      "mainClass": "Control_Statements.BasicJavaPrograms.LeetCode_1281",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "Hi",
+      "request": "launch",
+      "mainClass": "Hi",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "NumericalQuestions",
+      "request": "launch",
+      "mainClass": "Basics.NumericalQuestions",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Basics.Hello",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
       "name": "Patterns",
       "request": "launch",
       "mainClass": "Patterns",
