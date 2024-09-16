@@ -11,6 +11,7 @@ public class prime {
         int nthHighest=sc.nextInt();
         int number=nthPrimeNum(digits,nthHighest);
         System.out.println(nthHighest+"th highest prime number in "+digits+"digit number is "+number);
+        sc.close();
     }
 
     public static int nthPrimeNum(int digits, int nthHighest) {
