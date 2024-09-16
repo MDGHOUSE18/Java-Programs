@@ -6,6 +6,104 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RollDie",
+      "request": "launch",
+      "mainClass": "NumericalQuestions.RollDie",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "Linkedlist",
+      "request": "launch",
+      "mainClass": "DS.Linkedlist",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "Practice",
+      "request": "launch",
+      "mainClass": "Strings.Practice",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "PrintInitials",
+      "request": "launch",
+      "mainClass": "Strings.PrintInitials",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "SortingTech",
+      "request": "launch",
+      "mainClass": "Arrays.SortingTech",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "PangramChecker",
+      "request": "launch",
+      "mainClass": "Strings.PangramChecker",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "number",
+      "request": "launch",
+      "mainClass": "Patterens.number",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "prime",
+      "request": "launch",
+      "mainClass": "Infanion.prime",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "Sorting",
+      "request": "launch",
+      "mainClass": "Arrays.Sorting",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "SubStrings",
+      "request": "launch",
+      "mainClass": "Strings.SubStrings",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "CharaterCount",
+      "request": "launch",
+      "mainClass": "Strings.CharaterCount",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "VowelsCount",
+      "request": "launch",
+      "mainClass": "Strings.VowelsCount",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "StarPatterns",
+      "request": "launch",
+      "mainClass": "Patterns.StarPatterns",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
+      "name": "BIgSort",
+      "request": "launch",
+      "mainClass": "Algorithms.BIgSort",
+      "projectName": "Java Programs"
+    },
+    {
+      "type": "java",
       "name": "Polindrome",
       "request": "launch",
       "mainClass": "Functions.Polindrome",
